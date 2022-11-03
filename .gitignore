@@ -1,0 +1,7 @@
+__pycache__
+venv/
+csvs/*
+output_csvs/*
+
+!csvs/.gitkeep
+!output_csvs/.gitkeep
